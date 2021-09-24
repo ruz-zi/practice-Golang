@@ -1,6 +1,6 @@
 # practice-Golang
 
-# Go 언어 연습
+**Go 언어 연습**
 
 ## src :
 
